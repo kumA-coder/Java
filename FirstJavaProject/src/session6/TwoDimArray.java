@@ -15,7 +15,7 @@ public class TwoDimArray {
 		
 		a[2][0] = 162;  //change
 		a[2][1] = 122;
-		
+		//new change 
 		System.out.println("no. of rows:" + a.length);
 		System.out.println("no of column:" + a[0].length);
 	}
