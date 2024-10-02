@@ -13,7 +13,7 @@ public class TwoDimArray {
 		a[1][0] = 12;
 		a[1][1] = 1;
 		
-		a[2][0] = 122;
+		a[2][0] = 162;  //change
 		a[2][1] = 122;
 		
 		System.out.println("no. of rows:" + a.length);
